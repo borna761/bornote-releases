@@ -1,5 +1,9 @@
 The first release of borNote, a calm note-taking app for macOS. Your notes are plain Markdown files in a folder you own, so they stay readable without the app.
 
+![borNote in the light theme, with the sidebar, note list and an open note](screenshots/light.png)
+
+![borNote in the dark theme, with the sidebar, note list and an open note](screenshots/dark.png)
+
 ## What's in it
 
 - **WYSIWYG writing:** type in a clean editor, with no blocks, and borNote saves Markdown.
